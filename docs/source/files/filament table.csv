@@ -1,0 +1,13 @@
+Material,Brand,Endorsed?,Nozzle Temp,Bed Temp,Price
+PLA,Marvel3D,Yes,220,60,
+PLA,FlashForge,Yes,220,60,`$45.90 <https://www.jaycar.co.nz/hobbies-gadgets/3d-printers-scanners/3d-printer-filament/c/4GB?q=%3Apopularity-desc%3Acategory%3Afilament-hc-mar20&text=>`_ `$28.9 <https://www.jaycar.co.nz/1-75mm-blue-flashforge-pla-filament-600g-roll/p/TL4261>`_
+PLA+ ,Marvel3D,No,225,60,`$34.99 <https://marvle3d.co.nz/search?controller=search&s=PLA%2B>`_
+PETG,Kiwi3D,Yes,240,90,`$44.99 <https://kiwi3d.co.nz/product-category/3d/filament/petg/>`_
+PETG,eSun,Yes,240,90,`$42.54 <https://3dprintingservices.co.nz/product-category/3d-printing-filament/petg-3d-filament/>`_
+PETG,HobbyKing,Yes,240,90,`$38.83 <https://hobbyking.com/en_us/workbench/3d-printers/filament.html#q=&idx=hbk_live_magento_en_us_products&dFR%5Bprinters3d_filaments_material%5D%5B0%5D=PETG&dFR%5Bwarehouses%5D%5B0%5D=Global&dFR%5Bwarehouses%5D%5B1%5D=AUS&dFR%5Bwarehouses_stock_data%5D%5B0%5D=Global%7C1&dFR%5Bwarehouses_stock_data%5D%5B1%5D=Global%7C2&dFR%5Bwarehouses_stock_data%5D%5B2%5D=Global%7C3&dFR%5Bwarehouses_stock_data%5D%5B3%5D=AUS%7C1&dFR%5Bwarehouses_stock_data%5D%5B4%5D=AUS%7C2&dFR%5Bwarehouses_stock_data%5D%5B5%5D=AUS%7C3&hFR%5Bcategories.level0%5D%5B0%5D=Workbench%20%2F%2F%2F%203D%20Printing%20%2F%2F%2F%20Filament&is_v=1>`_
+Flex/TPU,Kiwi3D,Yes,230,50,`$55.99 <https://kiwi3d.co.nz/product-category/3d/filament/tpu/?orderby=price>`_
+Flex/TPU,SainSmart,Yes,230,50,`$59.90 <https://www.quadjunkie.co.nz/product/sainsmart-tpu-flexible-filament-1-75mm-0-8kg/>`_
+Carbon+PETG,Kiwi3D,Yes,225,85,`$64.99 <https://kiwi3d.co.nz/product/kiwi3d-carbon-fiber-petg-3d-printer/>`_
+Glow in the dark PLA,Jaycar,Yes,220,60,`$24.90 <https://www.jaycar.co.nz/green-glow-in-dark-3d-printer-filament-250g-roll/p/TL4134?pos=1&queryId=b4f481cfbc2d05fe0881079a5955f582>`_
+ABS,UP Filament,No,,,`$76.25 <https://www.3dprinting.co.nz/product-category/filaments/up-abs/>`_
+Nylon,,No,,,
