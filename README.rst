@@ -1,9 +1,17 @@
-Template for the Read the Docs tutorial
-=======================================
+Howdy all
+=========
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+To be added
+-----------
 
-Read the tutorial here:
+- More CAD files
+    - In depth for AquaCopter stuff
+    - Need to add point orange sensor stuff
 
-https://docs.readthedocs.io/en/stable/tutorial/
+- AquaDrone section
+
+- More rubbish about the printing process
+
+- Details about the printer
+
+:note: Let me know any additions/questions/comments
