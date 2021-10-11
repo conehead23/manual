@@ -117,8 +117,6 @@ Slice
 -----
 - In the right info panel set the following settings
 
-.. bibliographic fields:
-
 :Print Settings: 0.20mm Best
 :Filament: Manny Carbon PETG
 :Printer: Original Prusa i3 MK3S $ MK3S+
@@ -145,8 +143,6 @@ Supports
 
 - In the right info panel set the following settings
 
-.. bibliographic fields:
-
 :Supports: Support build plate only
 
 - This setting adds supports if the overhanging area is above the build plate
@@ -157,8 +153,6 @@ Supports
 
 - Highlighted in blue in the above image, there is still unsupported overhangs.
 - In the right info panel set the following settings
-
-.. bibliographic fields:
 
 :Supports: Everywhere
 
@@ -178,7 +172,6 @@ Printer Settings
 - Select :guilabel:`Layers and perimeters`
 - We will adjust the perimeters of the model. This is the bes way to improve the strength of the model
 
-.. bibliographic fields:
 
 :Perimeters: 4
 
@@ -187,8 +180,6 @@ Printer Settings
 
 - Select :guilabel:`Infill`
 - We will increase the fill density. This will improve the top layer of the print and increase strength
-
-.. bibliographic fields:
 
 :Fill density: 10%
 

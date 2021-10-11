@@ -11,7 +11,7 @@ We also have a composite of 75% PETG and 25% Carbon fibre filament which is usef
     :header-rows: 1
     :stub-columns: 2
 
-:note: Ensure you are purchasing ø1.75mm filament.
+.. note:: Ensure you are purchasing ø1.75mm filament.
 
 PLA/PLA+
 ------------------

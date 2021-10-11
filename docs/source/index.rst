@@ -18,3 +18,11 @@ Manny Manual
    docs/printing
    docs/troubleshooting
 
+.. toctree::
+   :caption: AquaCopter Manual
+   :maxdepth: 3
+
+   docs/regulations
+   docs/calibration
+
+
