@@ -1,0 +1,1 @@
+python3 -m pip install --user --upgrade git+https://github.com/sphinx-contrib/youtube.git
