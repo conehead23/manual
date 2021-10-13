@@ -65,3 +65,5 @@ html_last_updated_fmt = ""
 # readthedocs theme options https://sphinx-rtd-theme.readthedocs.io/en/stable/configuring.html
 # text table generator https://www.tablesgenerator.com/text_tables#
 # stl thumbnails https://3dprintbeginner.com/how-to-enable-stl-thumbnails-in-windows-10/
+# rtd config page https://readthedocs.org/projects/manny-manual/
+# manny-manual https://manny-manual.readthedocs.io/en/latest/

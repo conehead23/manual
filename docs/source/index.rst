@@ -7,8 +7,15 @@ Manny Manual
 ============
 
 .. toctree::
+   :caption: AquaCopter Manual
+   :maxdepth: 2
+
+   docs/regulations
+   docs/calibration
+
+.. toctree::
    :caption: 3D Printer Manual
-   :maxdepth: 3
+   :maxdepth: 2
 
    docs/process
    docs/models
@@ -17,12 +24,4 @@ Manny Manual
    docs/materials
    docs/printing
    docs/troubleshooting
-
-.. toctree::
-   :caption: AquaCopter Manual
-   :maxdepth: 3
-
-   docs/regulations
-   docs/calibration
-
 

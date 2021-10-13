@@ -33,10 +33,10 @@ Big Clamp
 
     *   - Print Settings
         - Filament
+        - Perimeters
     *   - 0.20mm FLEX
         - Manny FLEX
-
-.. note:: Perimeters: 8
+        - 8
 
 Fin Holder
 ----------
@@ -50,10 +50,10 @@ Fin Holder
 
     *   - Print Settings
         - Filament
+        - Perimeters
     *   - 0.20mm FLEX
         - Manny FLEX
-
-.. note:: Perimeters: 6
+        - 6
 
 Random
 ========
@@ -68,20 +68,28 @@ Logger Caps
 
     *   - Print Settings
         - Filament
+        - Orientation
     *   - 0.20mm FLEX
         - Manny FLEX
+        - Top to print bed
 
 Key Fob
 -------
 ..  image:: https://cad.onshape.com/api/thumbnails/d/7b3a4f2ee6956b6bcb05ff4f/w/1ce67324a71d526e55a8eb2c/s/300x170?t=1633318637799
     :target: https://cad.onshape.com/documents/7b3a4f2ee6956b6bcb05ff4f/w/1ce67324a71d526e55a8eb2c/e/df946c761f380e08f8a9ac25
 
-.. list-table::
-    :header-rows: 1
+:Print Settings: Manny PLA
+:Filament: 0.20mm Best
+:Fill: 20%
+:Colour Change: 3.20mm
 
-    *   - Print Settings
-        - Filament
-    *   - 0.20mm Best
-        - Manny PLA
 
-.. note:: Colour Change: 3.20mm
+Solution Holder
+---------------
+..  image:: https://cad.onshape.com/api/thumbnails/d/6670eda4503b5a78091ec19b/w/5cf5fc49bcddd37e2a53e111/s/300x170?t=1634072287477
+    :target: https://cad.onshape.com/documents/6670eda4503b5a78091ec19b/w/5cf5fc49bcddd37e2a53e111/e/303460f9697c0cac66bcc101
+
+:Print Settings: Prusa PETG
+:Filament: 0.30mm Fast
+:Perimeters: 4
+:Orientation: Top to print bed

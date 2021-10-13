@@ -21,8 +21,8 @@ Massey does a CAA certified `RPAS Course <https://www.massey.ac.nz/massey/learni
 - Good practice to also log flights with AirShare for unrestricted airspace
 - Also contains information on how to safely operate a RPAS
 
-.. image:: /images/airshare.png
-   :target: ../_images/airshare.png
+.. image:: /images/airshare.PNG
+   :target: ../_images/airshare.PNG
 
 `Example Flight Request <https://pilot.airshare-utm.io/maps>`_
 --------------------------------------------------------------
@@ -36,8 +36,8 @@ Massey does a CAA certified `RPAS Course <https://www.massey.ac.nz/massey/learni
 :Duration: 1h
 :Part: 101
 
-.. image:: /images/flight_request.png
-   :target: ../_images/flight_request.png
+.. image:: /images/flight_request.PNG
+   :target: ../_images/flight_request.PNG
 
 `Example Restricted Flight Request <https://pilot.airshare-utm.io/maps>`_
 -------------------------------------------------------------------------
@@ -52,8 +52,8 @@ Massey does a CAA certified `RPAS Course <https://www.massey.ac.nz/massey/learni
             Radio/Telemetry: If link loss RTH
 :Other Info: Taking water sample for Horizons Regional Council
 
-.. image:: /images/restricted_flight_request.png
-   :target: ../_images/restricted_flight_request.png
+.. image:: /images/restricted_flight_request.PNG
+   :target: ../_images/restricted_flight_request.PNG
 
 Land Permission
 ===============
