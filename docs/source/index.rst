@@ -10,8 +10,11 @@ Manny Manual
    :caption: AquaCopter Manual
    :maxdepth: 2
 
+   docs/checklist
    docs/regulations
+   docs/setup
    docs/calibration
+   docs/bill-of-materials
 
 .. toctree::
    :caption: 3D Printer Manual

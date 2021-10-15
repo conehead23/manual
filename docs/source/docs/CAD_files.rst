@@ -89,7 +89,25 @@ Solution Holder
 ..  image:: https://cad.onshape.com/api/thumbnails/d/6670eda4503b5a78091ec19b/w/5cf5fc49bcddd37e2a53e111/s/300x170?t=1634072287477
     :target: https://cad.onshape.com/documents/6670eda4503b5a78091ec19b/w/5cf5fc49bcddd37e2a53e111/e/303460f9697c0cac66bcc101
 
+:download:`Holder - Part 1.stl </designs/Horizons/Holder - Part 1.stl>`
+
 :Print Settings: Prusa PETG
 :Filament: 0.30mm Fast
 :Perimeters: 4
 :Orientation: Top to print bed
+
+Radar Housing
+-------------
+..  image:: 	https://cad.onshape.com/api/thumbnails/d/970c48a283f2ba60c1425929/w/fd1a901a2bf3505d6b58489b/s/300x170?t=1634153952325
+    :target: https://cad.onshape.com/documents/970c48a283f2ba60c1425929/w/fd1a901a2bf3505d6b58489b/e/c44051fcd75f910106dc3d68
+
+:download:`Top - Top.stl </designs/Horizons/Top - Top.stl>`
+| :download:`Bottom - Bottom.stl </designs/Horizons/Bottom - Bottom.stl>`
+| :download:`Complete housing.gcode </designs/Horizons/Bottom - Bottom_0.3mm_PETG_MK3S_7h39m.gcode>`
+
+:Print Settings: Prusa PETG
+:Filament: 0.30mm Fast
+:Perimeters: 3
+:Orientation:   Top - Top to print bed
+
+                Bottom - Standard
