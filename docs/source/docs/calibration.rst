@@ -332,3 +332,7 @@ Old batteries still have enough energy to catch fire thus must be discharged to 
 Firmware
 ========
 
+Status LED
+==========
+
+

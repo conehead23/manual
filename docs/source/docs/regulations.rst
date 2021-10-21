@@ -5,6 +5,7 @@ Regulations
 `Part 101 <https://www.aviation.govt.nz/assets/rules/consolidations/Part_101_Consolidation.pdf>`_
 =================================================================================================
 Horizons currently has no RPAS policy. Thus, the main rules governing the use of RPAS are CAA Part 101. The main rules are:
+
 - Keep clear of aircraft
 - Fly below 400ft above ground level (AGL)
 - Keep RPAS within visual line of site
