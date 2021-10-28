@@ -8,6 +8,20 @@ AquaCopter
 ..  image:: https://cad.onshape.com/api/thumbnails/d/a46d5b723ab736f04581f7b7/w/6385684a210baac2774ec0f9/s/300x170?t=1629167034411
     :target: https://cad.onshape.com/documents/a46d5b723ab736f04581f7b7/w/6385684a210baac2774ec0f9/e/771ffe682092390a6d45762d?configuration=default
 
+Mid
+---
+.. image:: /designs/AquaCopter/mid.png
+   :target: https://cad.onshape.com/documents/a46d5b723ab736f04581f7b7/w/6385684a210baac2774ec0f9/e/ebbe24bb2cbbd896fe30f891
+   :width: 50%
+
+:Print Settings: Prusa PETG
+:Filament: 0.20mm Best
+:Support: None
+:Orientation:   Both parts - As oriented in image
+:Layers:    Top - 9.00-16.60mm Perimeters 6
+
+            Bottom - 44.00-55.00mm Perimeters 6
+
 RS5
 ===
 
@@ -94,7 +108,7 @@ Solution Holder
 :Print Settings: Prusa PETG
 :Filament: 0.30mm Fast
 :Perimeters: 4
-:Orientation: Top to print bed
+:Orientation: Top face down
 
 Radar Housing
 -------------
@@ -103,11 +117,35 @@ Radar Housing
 
 :download:`Top - Top.stl </designs/Horizons/Top - Top.stl>`
 | :download:`Bottom - Bottom.stl </designs/Horizons/Bottom - Bottom.stl>`
-| :download:`Complete housing.gcode </designs/Horizons/Bottom - Bottom_0.3mm_PETG_MK3S_7h39m.gcode>`
 
 :Print Settings: Prusa PETG
 :Filament: 0.30mm Fast
 :Perimeters: 3
-:Orientation:   Top - Top to print bed
+:Orientation:   Top - Top face down
 
                 Bottom - Standard
+
+Reel Knob
+---------
+..  image:: 	https://cad.onshape.com/api/thumbnails/d/ed2c347cfa703837dc43709e/w/30709fde1709c584c84a7860/s/300x170?t=1634855516730
+    :target: https://cad.onshape.com/documents/ed2c347cfa703837dc43709e/w/30709fde1709c584c84a7860/e/550f184bdd227107a3afb3a6
+
+:Print Settings: Prusa PETG
+:Filament: 0.20mm Best
+:Orientation:   Both parts - Front face down
+
+Point Orange Connector
+----------------------
+.. image:: /designs/Horizons/point_orange_connectors.png
+   :target: ../_designs/Horizons/point_orange_connectors.png
+   :width: 50%
+
+:download:`point_orange_connector_top.stl </designs/Horizons/point_orange_connector_top.stl>`
+| :download:`point_orange_connector_top.SLDPRT </designs/Horizons/point_orange_connector_top.SLDPRT>`
+| :download:`point_orange_connector_bottom.stl </designs/Horizons/point_orange_connector_bottom.stl>`
+| :download:`point_orange_connector_bottom.SLDPRT </designs/Horizons/point_orange_connector_bottom.SLDPRT>`
+
+:Print Settings: Manny ASA
+:Filament: 0.20mm Best
+:Support: None
+:Orientation:   Both parts - As oriented in image
