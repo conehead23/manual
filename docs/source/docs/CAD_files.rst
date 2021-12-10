@@ -36,8 +36,9 @@ Big Board
 
 Big Clamp
 ---------
-..  image:: https://cad.onshape.com/api/thumbnails/d/6f2eec90718418f55d0c816e/w/480fe97371fa8672746fa4ef/s/300x170?t=1632887564189
+..  image:: /designs/RS5/big_clamp.png
     :target: https://cad.onshape.com/documents/6f2eec90718418f55d0c816e/w/480fe97371fa8672746fa4ef/e/e7bd72702b38fa5cefa699de
+    :width: 50%
 
 :download:`Big Board - Clamp.stl </designs/RS5/Big Board - Clamp.stl>`
 | :download:`Big Board - Clamp.gcode </designs/RS5/Big Board - Clamp_0.2mm_FLEX_MK3S_13h30m.gcode>`
@@ -89,8 +90,9 @@ Logger Caps
 
 Key Fob
 -------
-..  image:: https://cad.onshape.com/api/thumbnails/d/7b3a4f2ee6956b6bcb05ff4f/w/1ce67324a71d526e55a8eb2c/s/300x170?t=1633318637799
+..  image:: /designs/Horizons/key_fob.png
     :target: https://cad.onshape.com/documents/7b3a4f2ee6956b6bcb05ff4f/w/1ce67324a71d526e55a8eb2c/e/df946c761f380e08f8a9ac25
+    :width: 50%
 
 :Print Settings: Manny PLA
 :Filament: 0.20mm Best
@@ -134,18 +136,41 @@ Reel Knob
 :Filament: 0.20mm Best
 :Orientation:   Both parts - Front face down
 
-Point Orange Connector
-----------------------
-.. image:: /designs/Horizons/point_orange_connectors.png
-   :target: ../_designs/Horizons/point_orange_connectors.png
+Point Orange
+============
+
+Old Connectors
+--------------
+
+.. image:: /designs/Point_Orange/point_orange_connectors.png
+   :target: ../_designs/Point_Orange/point_orange_connectors.png
    :width: 50%
 
-:download:`point_orange_connector_top.stl </designs/Horizons/point_orange_connector_top.stl>`
-| :download:`point_orange_connector_top.SLDPRT </designs/Horizons/point_orange_connector_top.SLDPRT>`
-| :download:`point_orange_connector_bottom.stl </designs/Horizons/point_orange_connector_bottom.stl>`
-| :download:`point_orange_connector_bottom.SLDPRT </designs/Horizons/point_orange_connector_bottom.SLDPRT>`
+:download:`point_orange_connector_top.stl </designs/Point_Orange/point_orange_connector_top.stl>`
+| :download:`point_orange_connector_top.SLDPRT </designs/Point_Orange/point_orange_connector_top.SLDPRT>`
+| :download:`point_orange_connector_bottom.stl </designs/Point_Orange/point_orange_connector_bottom.stl>`
 
-:Print Settings: Manny ASA
+:Print Settings: Manny PETG
 :Filament: 0.20mm Best
+:Perimeters: 5
 :Support: None
 :Orientation:   Both parts - As oriented in image
+
+Run a 1.5mm bit in the holes. Push pins in from top. Pull pins from bottom with pliers with decent force.
+Pins should stay in the connector. Screw top onto bottom. Fill top with silicone. Screw gland on top and tighten gland
+
+New Connectors
+--------------
+..  image:: /designs/Point_Orange/new_connector.png
+    :target: https://cad.onshape.com/documents/9d5fa8b2bad7f2cd30bc79ca/w/8e37575062e16bbbbb39892f/e/e839d5caca79ab8de3ff83cd?renderMode=0&uiState=61afb3d0af2f9214ee356756
+    :width: 50%
+
+:Print Settings: Manny PETG
+:Filament: 0.20mm Best
+:Perimeters: 4
+:Infill: 20%
+:Support: None
+:Orientation: As oriented in image
+
+Run a 1.5mm bit in the holes. Push pins in from top. Pull pins from bottom with pliers with decent force.
+Pins should stay in the connector. Screw original top onto connector. Fill top with silicone

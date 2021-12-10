@@ -3,8 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Manny Manual
-============
+Manny/Mikey Manual
+==================
+
+.. toctree::
+   :caption: Water Metering
+   :maxdepth: 2
+
+   docs/SOP
+   docs/install
+
+.. toctree::
+   :caption: Battery Testing
+   :maxdepth: 2
+
+   docs/battery
 
 .. toctree::
    :caption: AquaCopter Manual
