@@ -10,6 +10,11 @@ Things you’ll need
 •	Clearscada program
 •	Point orange unit, pulse cable, aerial, programing cable, mount, wire joiners
 
+https://gis.geek.nz/map/celltowers
+https://www.vodafone.co.nz/network/coverage/
+https://www.spark.co.nz/shop/mobile/network/
+https://link.ui.com/#
+
 Point Orange Setup
 ==================
 
