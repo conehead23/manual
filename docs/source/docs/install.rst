@@ -38,8 +38,8 @@ We need to set up a site in ClearSCADA for the point orange to put all its data.
 - Remote into ClearSCADA server. Logon with your standard logon. Open ViewX
 
     - Download the :download:`ClearSCADA.rdp </files/ClearSCADA.rdp>`.
-    - Computer: pnt-ap37.horizons.govt.nz
-      Username: servers
+    - Computer: ``pnt-ap37.horizons.govt.nz``
+      Username: ``servers``
 
 .. image:: /images/clearSCADA_rdp.PNG
    :target: ../_images/clearSCADA_rdp.PNG

@@ -1,6 +1,6 @@
-===============
-Battery Testing
-===============
+==============
+Capacity Check
+==============
 
 We are doing a full discharge test on the batteries to see how much capacity it will have in the field.
 This is compared to the supposed capacity which gives us the battery health.
@@ -34,14 +34,14 @@ EBC-A20 Battery Analyser
   The analyser has a timeout after 60H, which can stop the test midway if analysing a large discharged battery
 - Turn on the computer and EBC-A20
 - Connect the leads to the battery
-- Open :guilabel:`EB Tester software`. Ensure correct COM port is selected and press :guilabel:`connect`
+- Open :guilabel:`EB Tester software`. Ensure correct COM port is selected and press :guilabel:`Connect`
 
     - The battery voltage should show up on the software and there should be a flashing rd light by the connect button. -PC- will show up on the EBC-A20
 
 .. image:: /images/battery_connect.PNG
    :target: ../_images/battery_connect.PNG
 
-- Select :guilabel:`cycle tab`. Select :guilabel:`Open` and open :download:`template_cycle.stp </files/template_cycle.stp>`
+- Select :guilabel:`Cycle Test` tab. Select :guilabel:`Open` and open :download:`template_cycle.stp </files/template_cycle.stp>`
 
 .. image:: /images/battery_template.PNG
    :target: ../_images/battery_template.PNG
