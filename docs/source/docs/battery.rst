@@ -65,6 +65,9 @@ EBC-A20 Battery Analyser
 
 - Use the appropriate label and note down the capacity, health, date, and name
 
+.. image:: /images/battery_label.jpg
+   :target: ../_images/battery_label.jpg
+
 Extras for experts
 ==================
 
