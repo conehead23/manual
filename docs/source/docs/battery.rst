@@ -36,7 +36,7 @@ EBC-A20 Battery Analyser
 - Connect the leads to the battery
 - Open :guilabel:`EB Tester software`. Ensure correct COM port is selected and press :guilabel:`Connect`
 
-    - The battery voltage should show up on the software and there should be a flashing rd light by the connect button. -PC- will show up on the EBC-A20
+    - The battery voltage should show up on the software and there should be a flashing red light by the connect button. -PC- will show up on the EBC-A20
 
 .. image:: /images/battery_connect.PNG
    :target: ../_images/battery_connect.PNG

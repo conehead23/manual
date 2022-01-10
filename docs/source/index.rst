@@ -10,7 +10,7 @@ Manny/Mikey Manual
    :caption: Water Metering
    :maxdepth: 2
 
-   docs/SOP
+   docs/inspection
    docs/install
 
 .. toctree::
@@ -28,6 +28,12 @@ Manny/Mikey Manual
    docs/setup
    docs/calibration
    docs/bill-of-materials
+
+.. toctree::
+   :caption: Splashdrone Manual
+   :maxdepth: 2
+
+   docs/splash
 
 .. toctree::
    :caption: 3D Printer Manual
