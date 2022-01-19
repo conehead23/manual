@@ -138,7 +138,7 @@ Reel Knob
 
 Nitrate Sensor Ring
 -------------------
-..  image:: 	https://cad.onshape.com/api/thumbnails/d/ed2c347cfa703837dc43709e/w/30709fde1709c584c84a7860/s/300x170?t=1634855516730
+..  image:: 	https://cad.onshape.com/api/thumbnails/d/189e4fef38052c75bbcf40c7/w/b8583d6e1b7b99da6171f4ac/s/300x170
     :target: https://cad.onshape.com/documents/189e4fef38052c75bbcf40c7/w/b8583d6e1b7b99da6171f4ac/e/3204f6e8be6390bfe7e547a3
 
 :Print Settings: Prusa PETG
