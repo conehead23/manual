@@ -10,7 +10,7 @@ AquaCopter
 
 Mid
 ---
-.. image:: /designs/AquaCopter/mid.png
+.. image:: /designs/AquaCopter/mid.PNG
    :target: https://cad.onshape.com/documents/a46d5b723ab736f04581f7b7/w/6385684a210baac2774ec0f9/e/ebbe24bb2cbbd896fe30f891
    :width: 50%
 
@@ -36,7 +36,7 @@ Big Board
 
 Big Clamp
 ---------
-..  image:: /designs/RS5/big_clamp.png
+..  image:: /designs/RS5/big_clamp.PNG
     :target: https://cad.onshape.com/documents/6f2eec90718418f55d0c816e/w/480fe97371fa8672746fa4ef/e/e7bd72702b38fa5cefa699de
     :width: 50%
 
@@ -90,7 +90,7 @@ Logger Caps
 
 Key Fob
 -------
-..  image:: /designs/Horizons/key_fob.png
+..  image:: /designs/Horizons/key_fob.PNG
     :target: https://cad.onshape.com/documents/7b3a4f2ee6956b6bcb05ff4f/w/1ce67324a71d526e55a8eb2c/e/df946c761f380e08f8a9ac25
     :width: 50%
 
@@ -150,8 +150,8 @@ Point Orange
 Old Connectors
 --------------
 
-.. image:: /designs/Point_Orange/point_orange_connectors.png
-   :target: ../_designs/Point_Orange/point_orange_connectors.png
+.. image:: /designs/Point_Orange/point_orange_connectors.PNG
+   :target: ../_designs/Point_Orange/point_orange_connectors.PNG
    :width: 50%
 
 :download:`point_orange_connector_top.stl </designs/Point_Orange/point_orange_connector_top.stl>`
@@ -169,7 +169,7 @@ Pins should stay in the connector. Screw top onto bottom. Fill top with silicone
 
 New Connectors
 --------------
-..  image:: /designs/Point_Orange/new_connector.png
+..  image:: /designs/Point_Orange/new_connector.PNG
     :target: https://cad.onshape.com/documents/9d5fa8b2bad7f2cd30bc79ca/w/8e37575062e16bbbbb39892f/e/e839d5caca79ab8de3ff83cd?renderMode=0&uiState=61afb3d0af2f9214ee356756
     :width: 50%
 
