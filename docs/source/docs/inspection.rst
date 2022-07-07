@@ -30,26 +30,32 @@ Procedure
 .. image:: /images/inspection_map.PNG
    :target: ../_images/inspection_map.PNG
 
-Inspection Date/Time
---------------------
-Ensure the current date/time is selected NZST.
-If an older time is present, the inspection has been opened and may have entered data. Still, set the current date/time.
-
-.. image:: /images/inspection_date.PNG
-   :target: ../_images/inspection_date.PNG
-
-Site Specific Instructions
---------------------------
-Some examples of site instructions:
+Site Protocols
+--------------
+Some examples of site specific instructions:
 
 - Farmer wants you to ring him before entering
-- Specific paths to follow. A map can also be drawn in the :Photos:
-- Passcodes or locations of keys
+- Specific paths to follow
 
-If nothing is of note, select :guilabel:`NOT APPLICABLE`
+The second box contains confidential information such as:
+
+- Passcodes or locations of keys
 
 .. image:: /images/inspection_instructions.PNG
    :target: ../_images/inspection_instructions.PNG
+
+Inspection Details
+------------------
+Ensure the current date/time is selected NZST. Overwrite any old date with the current date/time
+
+Write descriptive succinct comments. Some examples:
+
+- Site working good
+- Point orange installed, needs another inspection
+- Meter has pumped but logger hasn’t received any pulses. Simulated 4 pulses on Harvest, passed. Tested read switch and confirmed it’s faulty. Farmer to get new meter installed
+
+.. image:: /images/inspection_date.PNG
+   :target: ../_images/inspection_date.PNG
 
 Meter Details
 -------------
@@ -62,26 +68,26 @@ Check the meter details with the meter
 .. image:: /images/inspection_details.PNG
    :target: ../_images/inspection_details.PNG
 
-Logger Details
---------------
-Check the meter details with the meter
-
-- If the meter is completely different, eg Point Orange compared to Harvest, start cursing because someone forgot to do the inspection when installing
-- Else, correct any minor mistakes and select :guilabel:`NO`
-
-
-Taking a Flowmeter Reading
---------------------------
-- Data source should be flow meter 1.
-- The next field is the previous meter reading.
-- Note the reading on the meter and
+Taking a Meter Reading
+----------------------
+- Check the pump is running and note in the inspection. There is usually an indicator on the meter. Else, pump is making noise or pipe is cold/moist
+- Always enter the meter reading in the :guilabel:`METER READING` box
 
 .. image:: /images/inspection_flow_meter.PNG
    :target: ../_images/inspection_flow_meter.PNG
 
+- Below are examples of the meters you will encounter in the field
+
+Octave
+```````
+This meters display reads 4810.74 m3.
+
+.. image:: /images/inspection_octave.PNG
+   :target: ../_images/inspection_octave.PNG
+
 Krohne
 ``````
-The navigation controls are based on light. Cover the down arrow once to get to the :guilabel:`-Σ÷` menu.
+The navigation controls are based on light. Cover the down arrow once to get to the :guilabel:`-Σ+` menu.
 
 +------------------------------------------------+------------------------------------------------+
 | .. image:: /images/inspection_krohne_1.jpg     | .. image:: /images/inspection_krohne_2.jpg     |
@@ -95,8 +101,6 @@ Press down arrow once, should get to total flow. Reading is Σ1
 .. image:: /images/inspection_krohne_3.jpg
    :target: ../_images/inspection_krohne_3.jpg
 
-
-
 Dial Meter
 ``````````
 These are old piles. Take the reading from the number the point has just PASSED. Note the order of the decimal places. This meter reads 324125.930 m3
@@ -104,16 +108,13 @@ These are old piles. Take the reading from the number the point has just PASSED.
 .. image:: /images/inspection_dial.PNG
    :target: ../_images/inspection_dial.PNG
 
-Octave
-```````
-This meters display reads 4810.74 m3.
+Logger Details
+--------------
+If installing a new meter, select :guilabel:`YES` for new datalogger. If you are able, enter the closing reading for the previous meter
 
-.. image:: /images/inspection_octave.PNG
-   :target: ../_images/inspection_octave.PNG
+Else, correct any mistakes for the logger model and make and ensure :guilabel:`NOT APPLICABLE` is selected.
 
-Taking a Logger Reading
------------------------
-The next field is about the logger, the logger will have a serial number a previous reading and a current reading. Then we have the multiplier field which is where we select the amount of water that flows before the logger receives a pulse. Now we have the ratio this is what tells us if our readings line up.
+Below are the meters you will encounter in the field
 
 Point Orange
 ````````````
@@ -133,6 +134,28 @@ placeholder
 Campbell
 ````````
 placeholder
+
+Taking a Logger Reading
+-----------------------
+Enter the logger reading in the corrosponding field.
+
+The multiplier is the amount of water that flows per pulse. This is usually on the meter (see :Octave:)
+
+The last field contains the ratio. Below is a table explaining the different ratios
+
++-----------------+----------------------------------+-------------------------------------------------------------+
+| Ratio           | Meaning                          | Causes                                                      |
++-----------------+----------------------------------+-------------------------------------------------------------+
+| 100             | Logged readings = Meter readings | Working site                                                |
++-----------------+----------------------------------+-------------------------------------------------------------+
+| 1000,10,.1,.001 | Ratio is likely wrong            | Change the multiplier, re-evaluate ratio                    |
++-----------------+----------------------------------+-------------------------------------------------------------+
+| 0 or close      | Likely hasn't pumped             | Wait till pumped, meter not reading flow                    |
++-----------------+----------------------------------+-------------------------------------------------------------+
+| Less than 100   | Logged readings > Meter readings | Meter pulsing on reverse flow, external noise, faulty meter |
++-----------------+----------------------------------+-------------------------------------------------------------+
+| More than 100   | Meter reading > Logged readings  | Faulty logger, broken connection, meter not sending pulses  |
++-----------------+----------------------------------+-------------------------------------------------------------+
 
 Compliance
 ----------

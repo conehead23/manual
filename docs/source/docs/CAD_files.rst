@@ -10,7 +10,7 @@ AquaCopter
 
 Mid
 ---
-.. image:: /designs/AquaCopter/mid.PNG
+.. image:: /designs/AquaCopter/mid.png
    :target: https://cad.onshape.com/documents/a46d5b723ab736f04581f7b7/w/6385684a210baac2774ec0f9/e/ebbe24bb2cbbd896fe30f891
    :width: 50%
 
@@ -36,7 +36,7 @@ Big Board
 
 Big Clamp
 ---------
-..  image:: /designs/RS5/big_clamp.PNG
+..  image:: /designs/RS5/big_clamp.png
     :target: https://cad.onshape.com/documents/6f2eec90718418f55d0c816e/w/480fe97371fa8672746fa4ef/e/e7bd72702b38fa5cefa699de
     :width: 50%
 
@@ -90,7 +90,7 @@ Logger Caps
 
 Key Fob
 -------
-..  image:: /designs/Horizons/key_fob.PNG
+..  image:: /designs/Horizons/key_fob.png
     :target: https://cad.onshape.com/documents/7b3a4f2ee6956b6bcb05ff4f/w/1ce67324a71d526e55a8eb2c/e/df946c761f380e08f8a9ac25
     :width: 50%
 
@@ -136,22 +136,14 @@ Reel Knob
 :Filament: 0.20mm Best
 :Orientation:   Both parts - Front face down
 
-Nitrate Sensor Ring
--------------------
-..  image:: 	https://cad.onshape.com/api/thumbnails/d/189e4fef38052c75bbcf40c7/w/b8583d6e1b7b99da6171f4ac/s/300x170
-    :target: https://cad.onshape.com/documents/189e4fef38052c75bbcf40c7/w/b8583d6e1b7b99da6171f4ac/e/3204f6e8be6390bfe7e547a3
-
-:Print Settings: Prusa PETG
-:Filament: 0.30mm Fast
-
 Point Orange
 ============
 
 Old Connectors
 --------------
 
-.. image:: /designs/Point_Orange/point_orange_connectors.PNG
-   :target: ../_designs/Point_Orange/point_orange_connectors.PNG
+.. image:: /designs/Point_Orange/point_orange_connectors.png
+   :target: ../_designs/Point_Orange/point_orange_connectors.png
    :width: 50%
 
 :download:`point_orange_connector_top.stl </designs/Point_Orange/point_orange_connector_top.stl>`
@@ -169,7 +161,7 @@ Pins should stay in the connector. Screw top onto bottom. Fill top with silicone
 
 New Connectors
 --------------
-..  image:: /designs/Point_Orange/new_connector.PNG
+..  image:: /designs/Point_Orange/new_connector.png
     :target: https://cad.onshape.com/documents/9d5fa8b2bad7f2cd30bc79ca/w/8e37575062e16bbbbb39892f/e/e839d5caca79ab8de3ff83cd?renderMode=0&uiState=61afb3d0af2f9214ee356756
     :width: 50%
 
