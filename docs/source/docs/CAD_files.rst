@@ -73,6 +73,50 @@ Fin Holder
 Random
 ========
 
+Hach Brackets
+-------------
+..  image:: 	/designs/Horizons/hach.PNG
+    :target: https://cad.onshape.com/documents/e04cb3b19c21d7bb5e08fae8/w/423ef0ed23db568aee41ba5c/e/29d513a82e2fa89b1ccf0e47?renderMode=0&uiState=62c785287dccc12ce1d4de09
+    :width: 50%
+
+:download:`New Bracket </designs/Horizons/New Bracket - Part 1.stl>`
+| :download:`Pole Bracket </designs/Horizons/Pole Bracket - Part 1.stl>`
+| :download:`Old pole </designs/Horizons/Old pole - Part 1.stl>`
+
+.. list-table::
+    :header-rows: 1
+
+    *   - Print Settings
+        - Filament
+        - Orientation
+        - Supports
+    *   - 0.30mm Fast
+        - Generic PETG
+        - As shown
+        - Build plate
+
+Need two 20mm 1/4UNC hex head bolts and knob to finish setup.
+
+Knob
+----
+..  image:: 	/designs/Horizons/knob.PNG
+    :target: https://cad.onshape.com/documents/f5ad598eb263e504ee19c1d7/w/ee095e4da1526c599ce314d4/e/aeca84220407703f4c74b642
+    :width: 50%
+
+:download:`Knob.stl </designs/Horizons/Small knob - knob.stl>`
+
+.. list-table::
+    :header-rows: 1
+
+    *   - Print Settings
+        - Filament
+        - Perimeters
+    *   - 0.30mm Fast
+        - Generic PETG
+        - 6
+
+Needed for the RS5/M9 boats and :Hach Brackets:
+
 Logger Caps
 -----------
 ..  image:: https://cad.onshape.com/api/thumbnails/d/7368096121d338a79519eb25/w/f52dc9a46094c66ff5abc85b/s/300x170?t=1628547928184
@@ -88,17 +132,7 @@ Logger Caps
         - Manny FLEX
         - Top to print bed
 
-Key Fob
--------
-..  image:: /designs/Horizons/key_fob.png
-    :target: https://cad.onshape.com/documents/7b3a4f2ee6956b6bcb05ff4f/w/1ce67324a71d526e55a8eb2c/e/df946c761f380e08f8a9ac25
-    :width: 50%
-
-:Print Settings: Manny PLA
-:Filament: 0.20mm Best
-:Fill: 20%
-:Colour Change: 3.20mm
-
+First 3mm: no top or bottom layer. 50% rectalinear fill.
 
 Solution Holder
 ---------------
@@ -112,21 +146,6 @@ Solution Holder
 :Perimeters: 4
 :Orientation: Top face down
 
-Radar Housing
--------------
-..  image:: 	https://cad.onshape.com/api/thumbnails/d/970c48a283f2ba60c1425929/w/fd1a901a2bf3505d6b58489b/s/300x170?t=1634153952325
-    :target: https://cad.onshape.com/documents/970c48a283f2ba60c1425929/w/fd1a901a2bf3505d6b58489b/e/c44051fcd75f910106dc3d68
-
-:download:`Top - Top.stl </designs/Horizons/Top - Top.stl>`
-| :download:`Bottom - Bottom.stl </designs/Horizons/Bottom - Bottom.stl>`
-
-:Print Settings: Prusa PETG
-:Filament: 0.30mm Fast
-:Perimeters: 3
-:Orientation:   Top - Top face down
-
-                Bottom - Standard
-
 Reel Knob
 ---------
 ..  image:: 	https://cad.onshape.com/api/thumbnails/d/ed2c347cfa703837dc43709e/w/30709fde1709c584c84a7860/s/300x170?t=1634855516730
@@ -139,38 +158,46 @@ Reel Knob
 Point Orange
 ============
 
-Old Connectors
---------------
-
-.. image:: /designs/Point_Orange/point_orange_connectors.png
-   :target: ../_designs/Point_Orange/point_orange_connectors.png
-   :width: 50%
-
-:download:`point_orange_connector_top.stl </designs/Point_Orange/point_orange_connector_top.stl>`
-| :download:`point_orange_connector_top.SLDPRT </designs/Point_Orange/point_orange_connector_top.SLDPRT>`
-| :download:`point_orange_connector_bottom.stl </designs/Point_Orange/point_orange_connector_bottom.stl>`
-
-:Print Settings: Manny PETG
-:Filament: 0.20mm Best
-:Perimeters: 5
-:Support: None
-:Orientation:   Both parts - As oriented in image
-
-Run a 1.5mm bit in the holes. Push pins in from top. Pull pins from bottom with pliers with decent force.
-Pins should stay in the connector. Screw top onto bottom. Fill top with silicone. Screw gland on top and tighten gland
-
-New Connectors
---------------
-..  image:: /designs/Point_Orange/new_connector.png
-    :target: https://cad.onshape.com/documents/9d5fa8b2bad7f2cd30bc79ca/w/8e37575062e16bbbbb39892f/e/e839d5caca79ab8de3ff83cd?renderMode=0&uiState=61afb3d0af2f9214ee356756
+Connectors V3
+-------------
+..  image:: /designs/Point_Orange/connector_v3.PNG
+    :target: https://cad.onshape.com/documents/9d5fa8b2bad7f2cd30bc79ca/w/8e37575062e16bbbbb39892f/e/2a94dc6bf0170456b0944bbc
     :width: 50%
 
-:Print Settings: Manny PETG
-:Filament: 0.20mm Best
-:Perimeters: 4
-:Infill: 20%
-:Support: None
-:Orientation: As oriented in image
+.. list-table::
+    :header-rows: 1
 
-Run a 1.5mm bit in the holes. Push pins in from top. Pull pins from bottom with pliers with decent force.
-Pins should stay in the connector. Screw original top onto connector. Fill top with silicone
+    *   - Print Settings
+        - Filament
+        - Supports
+        - Perimeters
+    *   - 0.20mm Best
+        - Generic PETG
+        - None
+        - 4
+
+Current designs: Single flowmeter (FM1), double flowmeter (FM2), radar and solar (Solar), 4-20mA. All to be printed with the same settings
+
+Run a 1.5mm bit in the holes. Crimp pins onto wire. Push pins in from top. Pull pins from bottom with pliers with decent force.
+Pins should stay in the connector. Put top on wire and fill with silicone. Screw top onto connector, silicone should squeeze out the top.
+
+Radar Housing
+-------------
+..  image:: 	/designs/Point_Orange/radar.PNG
+    :target: https://cad.onshape.com/documents/970c48a283f2ba60c1425929/w/fd1a901a2bf3505d6b58489b/e/c44051fcd75f910106dc3d68
+    :width: 50%
+
+:download:`Top - Top.stl </designs/Horizons/Top - Top.stl>`
+| :download:`Bottom - Bottom.stl </designs/Horizons/Bottom - Bottom.stl>`
+
+.. list-table::
+    :header-rows: 1
+
+    *   - Print Settings
+        - Filament
+        - Orientation
+        - Perimeters
+    *   - 0.30mm Fast
+        - Generic PETG
+        - As shown
+        - 3

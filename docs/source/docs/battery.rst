@@ -1,6 +1,14 @@
-==============
-Capacity Check
-==============
+=========
+Flowchart
+=========
+
+.. image:: /files/battery.png
+   :target: ../files/battery.png
+
+
+===========
+Expert Mode
+===========
 
 We are doing a full discharge test on the batteries to see how much capacity it will have in the field.
 This is compared to the supposed capacity which gives us the battery health.
@@ -68,8 +76,8 @@ EBC-A20 Battery Analyser
 .. image:: /images/battery_label.jpg
    :target: ../_images/battery_label.jpg
 
-Extras for experts
-==================
+Notes
+=====
 
 - The cycle first bulk charges the battery to 14.1V then does a float charge to 13.8V.
   This ensures the battery is fully charged before the discharge test.
