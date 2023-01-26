@@ -81,7 +81,6 @@ Hach Brackets
 
 :download:`New Bracket </designs/Horizons/New Bracket - Part 1.stl>`
 | :download:`Pole Bracket </designs/Horizons/Pole Bracket - Part 1.stl>`
-| :download:`Old pole </designs/Horizons/Old pole - Part 1.stl>`
 
 .. list-table::
     :header-rows: 1
