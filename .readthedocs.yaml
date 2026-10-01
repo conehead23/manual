@@ -6,3 +6,5 @@ python:
    
 formats:
   - pdf
+  - html
+  - epub
